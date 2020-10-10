@@ -8,4 +8,6 @@ Java ee: https://www.oracle.com/java/technologies/java-archive-eesdk-downloads.h
 
 MySQL Product Archives: https://downloads.mysql.com/archives/installer/
 
-Vou deixar disponivel meu banco de dados, só é necessario o importe
+Vou deixar disponivel meu banco de dados, só é necessario o import
+
+Deixarei o arquivo "Projeto3.war" só precisa fazer o import para o eclipse
